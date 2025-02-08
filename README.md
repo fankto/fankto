@@ -1,16 +1,17 @@
-## Hi there 👋
+### Exploring what's possible.
 
-<!--
-**TobiFank/TobiFank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working on systems that enhance human capabilities through AI. Currently focused on knowledge systems, human-AI interaction, and intelligent interfaces.
 
-Here are some ideas to get you started:
+<div style="margin-left: 5px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔮 [RAXPLORER](https://github.com/TobiFank/RAXPLORER): Advanced RAG implementation & analysis  
+✒️ [HandScript](https://github.com/TobiFank/HandScript): Adaptive handwriting recognition  
+🎙️ [EchoQuest](https://github.com/TobiFank/EchoQuest): Interview processing platform  
+🏷️ [Labela](https://github.com/TobiFank/Labela): AI image captioning  
+📱 [textSelector](https://github.com/TobiFank/textSelector): Enhanced text selection for Android
+
+</div>
+
+Looking for minds that understand the potential of tomorrow.
+
+[LinkedIn](https://linkedin.com/in/tobias-fankhauser) | [Buy me a token](https://buymeacoffee.com/TobiFank) ☕
