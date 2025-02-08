@@ -1,4 +1,4 @@
-### Exploring what's possible.
+## Exploring what's possible.
 
 Working on systems that enhance human capabilities through AI. Currently focused on knowledge systems, human-AI interaction, and intelligent interfaces.
 
@@ -8,7 +8,7 @@ Working on systems that enhance human capabilities through AI. Currently focused
 ✒️ [HandScript](https://github.com/TobiFank/HandScript): Adaptive handwriting recognition  
 🎙️ [EchoQuest](https://github.com/TobiFank/EchoQuest): Interview processing platform  
 🏷️ [Labela](https://github.com/TobiFank/Labela): AI image captioning  
-📱 [textSelector](https://github.com/TobiFank/textSelector): Enhanced text selection for Android
+📱 [textSelector](https://github.com/TobiFank/textSelector): Shift-Click for Android
 
 </div>
 
