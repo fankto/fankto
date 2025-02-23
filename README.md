@@ -14,4 +14,4 @@ Working on systems that enhance human capabilities through AI. Currently focused
 
 Looking for minds that understand the potential of tomorrow.
 
-[LinkedIn](https://linkedin.com/in/tobias-fankhauser) | [Buy me a token](https://buymeacoffee.com/TobiFank) ☕
+[Buy me a token](https://buymeacoffee.com/fankto) ☕
