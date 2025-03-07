@@ -1,6 +1,6 @@
 ## Exploring what's possible.
 
-Working on systems that enhance human capabilities through AI. Currently focused on knowledge systems, human-AI interaction, and intelligent interfaces.
+Working on systems that enhance human capabilities through AI. Currently focused on knowledge systems, human-AI interaction, intelligent interfaces, and AI Agents.
 
 <div style="margin-left: 5px">
 
