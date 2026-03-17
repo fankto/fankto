@@ -1,6 +1,6 @@
 ## Exploring what's possible.
 
-Quantum ML researcher. Working on systems that enhance human capabilities through AI. Currently focused on knowledge systems, human-AI interaction, intelligent interfaces, and AI Agents. Thinking about coordination, incentive structures, and what it takes for collective intelligence to actually work.
+Quantum ML researcher. Building production AI systems. Thinking about coordination, incentive structures, and what it takes for collective intelligence to actually work.
 
 ### Projects
 🤖 [WfAi Agents](https://www.fanktank.ch/en/projects/wfai-agents) — Multi-agent code generation for ERP automation  
